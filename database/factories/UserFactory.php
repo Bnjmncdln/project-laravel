@@ -10,7 +10,7 @@ use Illuminate\Support\Str;
  */
 class UserFactory extends Factory
 {
-    /**
+    /**s
      * Define the model's default state.
      *
      * @return array<string, mixed>
